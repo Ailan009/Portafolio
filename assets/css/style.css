@@ -1,0 +1,58 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.background-amarillo {
+    background-color:#fdf34b;
+
+}
+.background-black {
+    background-color:#000000;
+    
+}
+
+header {
+    background-image: url('../img/bg_hero.png');
+    background-repeat: no-repeat; 
+    background-size: cover;
+    background-position:center; 
+    padding-bottom:10rem;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    color:#ffffff;
+    font-weight: 700;
+    font-size:50px;
+    padding-top:10em;
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif; 
+    font-weight: 700; 
+    font-size: 40px;
+    color:#000000;
+    padding-top:1em;
+}
+
+h3 {
+    font-family: 'Roboto', sans-serif; 
+    font-weight: 700; 
+    font-size: 40px;
+    color:#ffffff;    
+}
+h5 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700; 
+    color:#000000; 
+}
+
+.btn a {
+    color: #000000;
+}
+
+footer i {
+    margin: 0.5em 0.25em 0.5em 0.25em;
+    color: #000000;
+}
+
