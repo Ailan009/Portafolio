@@ -14,9 +14,8 @@ body {
     background-color:#000000;
     
 }
-
-header {
-    background-image: url('../img/bg_hero.png');
+.hero {
+    background-image: url('../img/bg_hero.jpg');
     background-repeat: no-repeat; 
     background-size: cover;
     background-position:center; 
@@ -27,8 +26,10 @@ h1 {
     font-family: 'Roboto', sans-serif;
     color:#ffffff;
     font-weight: 700;
-    font-size:50px;
+    font-size:3.5em;
     padding-top:10em;
+    text-shadow:0.125em 0.10em 0.125em #000000;
+    text-align: center;
 }
 
 h2 {
@@ -79,3 +80,4 @@ footer i {
     .borde {
       margin: 5%;
     }
+}
