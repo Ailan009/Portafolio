@@ -75,3 +75,8 @@ footer i {
     color: #000000;
 }
 
+@media all and (max-device-width: 1100px) {
+    .borde {
+      margin: 5%;
+    }
+
